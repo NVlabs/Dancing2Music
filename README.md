@@ -4,13 +4,6 @@
 PyTorch implementation for music-to-dance generation.   
 
 
-### License
-Copyright (C) 2020 NVIDIA Corporation. All rights reserved. 
-
-This work is made available under NVIDIA Source Code License (1-Way
- Commercial). To view a copy of this license, visit https://nvlabs.github.io/Dancing2Music/LICENSE.txt
-
-
 ### Paper 
 [Hsin-Ying Lee](http://vllab.ucmerced.edu/hylee/), [Xiaodong Yang](https://xiaodongyang.org/), [Ming-Yu Liu](http://mingyuliu.net/), [Ting-Chun Wang](https://tcwang0509.github.io/), [Yu-Ding Lu](https://jonlu0602.github.io/), [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), and [Jan Kautz](http://jankautz.com/)  
 [Dancing to Music](https://arxiv.org/abs/1911.02001)  
@@ -92,5 +85,8 @@ If you find this code useful for your research, please cite our paper:
   year={2019}
 }
 ```
+
+### License
+Copyright (C) 2020 NVIDIA Corporation. All rights reserved. This work is made available under NVIDIA Source Code License (1-Way Commercial). To view a copy of this license, visit https://nvlabs.github.io/Dancing2Music/LICENSE.txt
 
 
