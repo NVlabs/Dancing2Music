@@ -73,14 +73,11 @@ Generation given same music and same initial poses
   
 
 ### Citation
-
 If you find this code useful for your research, please cite our paper:
-
-```
+```bibtex
 @inproceedings{lee2019dancing2music,
   title={Dancing to Music},
-  author={Lee, Hsin-Ying and Yang, Xiaodong and Liu, Ming-Yu and Wang, Ting
--Chun and Lu, Yu-Ding and Yang, Ming-Hsuan and Kautz, Jan},
+  author={Lee, Hsin-Ying and Yang, Xiaodong and Liu, Ming-Yu and Wang, Ting-Chun and Lu, Yu-Ding and Yang, Ming-Hsuan and Kautz, Jan},
   booktitle={NeurIPS},
   year={2019}
 }
