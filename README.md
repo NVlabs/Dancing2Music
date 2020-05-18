@@ -11,8 +11,8 @@ Neural Information Processing Systems (**NeurIPS**) 2019
 [[Paper]](https://arxiv.org/abs/1911.02001) [[YouTube]](https://youtu.be/-e9USqfwZ4A) [[Project]](http://vllab.ucmerced.edu/hylee/Dancing2Music/script.txt) [[Blog]](https://news.developer.nvidia.com/nvidia-dance-to-music-neurips/) [[Supp]](http://xiaodongyang.org/publications/papers/dance2music-supp-neurips19.pdf)
 
 ### Example Videos
-- Generated Dance Sequences
-second row: music beats; third row: kinematic beats
+- Beat-Matching     
+Generated dance sequences (first row), music beats (second row), kinematics beats (third row)
 <p align='center'>
   <img src='imgs/example.gif' width='400'/>
 </p>
