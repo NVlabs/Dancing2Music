@@ -38,11 +38,10 @@ Map generated dance sequences to photo-realistic videos.
 </p>
 
 
-## Train Decomposition Stage
-- Run the script
-  ```
-  python train_decomp.py --name Decomp
-  ```
+## Train Decomposition 
+```
+python train_decomp.py --name Decomp
+```
 
 ## Train Composition Stage
 - Run the script
