@@ -12,10 +12,8 @@ Neural Information Processing Systems (**NeurIPS**) 2019
 
 ### Example Videos
 - Beat-Matching     
-1st row: generated dance sequences    
-2nd row: music beats    
-3rd row: kinematics beats         
-<p align='center'>
+1st row: generated dance sequences, 2nd row: music beats, 3rd row: kinematics beats         
+<p align='left'>
   <img src='imgs/example.gif' width='400'/>
 </p>
 
