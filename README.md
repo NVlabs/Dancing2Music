@@ -43,19 +43,15 @@ Map generated dance sequences to photo-realistic videos.
 python train_decomp.py --name Decomp
 ```
 
-## Train Composition Stage
-- Run the script
-  ```
-  python train_comp.py --name Decomp --decomp_snapshot DECOMP_SNAPSHOT
-  ```
+## Train Composition 
+```
+python train_comp.py --name Decomp --decomp_snapshot DECOMP_SNAPSHOT
+```
 
 ## Demo
-- Run the script
-  ```
-  python demo.py --decomp_snapshot DECOMP_SNAPSHOT --comp_snapshot
-   COMP_SNAPSHOT --aud_path AUD_PATH --out_file OUT_FILE --out_dir OUT_DIR
-   --thr THR
-  ```
+```
+python demo.py --decomp_snapshot DECOMP_SNAPSHOT --comp_snapshot COMP_SNAPSHOT --aud_path AUD_PATH --out_file OUT_FILE --out_dir OUT_DIR --thr THR
+```
 - Flags
   - `aud_path`: input .wav file
   - `out_file`: location of output .mp4 file
