@@ -17,9 +17,9 @@ Neural Information Processing Systems (**NeurIPS**) 2019
   <img src='imgs/example.gif' width='400'/>
 </p>
 
-- Multimodality
-Generation given same music and same initial poses
-<p align='center'>
+- Multimodality    
+Generate various dance sequences with the same music and the same initial pose. 
+<p align='left'>
   <img src='imgs/multimodal.gif' width='400'/>
 </p>
 
