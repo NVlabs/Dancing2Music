@@ -55,18 +55,15 @@ python demo.py --decomp_snapshot DECOMP_SNAPSHOT --comp_snapshot COMP_SNAPSHOT -
 - Flags
   - `aud_path`: input .wav file
   - `out_file`: location of output .mp4 file
-  - `out_dir`: directory for output frames
+  - `out_dir`: directory of output frames
   - `thr`: threshold based on motion magnitude
   - `modulate`: whether to do beat warping
 
-- For example
-  ```
-  python demo.py -decomp_snapshot snapshot/Stage1.ckpt --comp_snapshot
-   snapshot/Stage2.ckpt --aud_path demo/demo.wav --out_file demo/out.mp4 
-   --out_dir demo/out_frame
-  ```
+- Example
+```
+python demo.py -decomp_snapshot snapshot/Stage1.ckpt --comp_snapshot snapshot/Stage2.ckpt --aud_path demo/demo.wav --out_file demo/out.mp4 --out_dir demo/out_frame
+```
 
-  
 
 ### Citation
 If you find this code useful for your research, please cite our paper:
