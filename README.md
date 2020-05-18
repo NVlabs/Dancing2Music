@@ -23,8 +23,9 @@ Generate various dance sequences with the same music and the same initial pose.
   <img src='imgs/multimodal.gif' width='400'/>
 </p>
 
-- Long Sequence
-<p align='center'>
+- Long-Term Generation    
+Seamlessly generate a dance sequence with arbitrary length. 
+<p align='left'>
   <kbd>
    <img src='imgs/long.gif' width='400'/>
   </kbd>
