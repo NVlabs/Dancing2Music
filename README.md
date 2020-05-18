@@ -1,17 +1,16 @@
 ![Python 2.7](https://img.shields.io/badge/python-2.7-green.svg)
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 ## Dancing to Music
-PyTorch implementation for music-to-dance generation.   
+PyTorch implementation of the cross-modality generative model that synthesizes dance from music.
 
 
 ### Paper 
 [Hsin-Ying Lee](http://vllab.ucmerced.edu/hylee/), [Xiaodong Yang](https://xiaodongyang.org/), [Ming-Yu Liu](http://mingyuliu.net/), [Ting-Chun Wang](https://tcwang0509.github.io/), [Yu-Ding Lu](https://jonlu0602.github.io/), [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), and [Jan Kautz](http://jankautz.com/)  
-[Dancing to Music](https://arxiv.org/abs/1911.02001)  
-In Neural Information Processing Systems (**NeurIPS**) 2019
-
+Dancing to Music
+Neural Information Processing Systems (**NeurIPS**) 2019
+[Paper](https://arxiv.org/abs/1911.02001) [YouTube](https://youtu.be/-e9USqfwZ4A) [Project](http://vllab.ucmerced.edu/hylee/Dancing2Music/script.txt) [Blog](https://news.developer.nvidia.com/nvidia-dance-to-music-neurips/) [Supp](http://xiaodongyang.org/publications/papers/dance2music-supp-neurips19.pdf)
 
 ### Example Videos
-For videos with audio, please visit our [youtube video](https://youtu.be/-e9USqfwZ4A)
 - Generated Dance Sequences
 second row: music beats; third row: kinematic beats
 <p align='center'>
