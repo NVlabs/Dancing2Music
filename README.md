@@ -31,9 +31,10 @@ Seamlessly generate a dance sequence with arbitrary length.
   </kbd>
 </p>
 
-- Photo Realisitc Video
-<p align='center'>
-  <img src='imgs/v2v.gif' width='400'/>
+- Photo-Realisitc Videos    
+Map generated dance sequences to photo-realistic videos.
+<p align='left'>
+  <img src='imgs/v2v.gif' width='800'/>
 </p>
 
 
