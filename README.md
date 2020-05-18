@@ -27,7 +27,7 @@ Generate various dance sequences with the same music and the same initial pose.
 Seamlessly generate a dance sequence with arbitrary length. 
 <p align='left'>
   <kbd>
-   <img src='imgs/long.gif' width='400'/>
+   <img src='imgs/long.gif' width='300'/>
   </kbd>
 </p>
 
